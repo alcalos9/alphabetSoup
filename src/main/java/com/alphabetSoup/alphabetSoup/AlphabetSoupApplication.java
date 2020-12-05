@@ -8,7 +8,7 @@ public class AlphabetSoupApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlphabetSoupApplication.class, args);
-		System.out.println("hola");
+		System.out.println("hola2");
 	}
 
 }
