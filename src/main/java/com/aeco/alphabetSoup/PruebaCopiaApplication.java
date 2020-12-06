@@ -1,13 +1,13 @@
-package com.alphabetSoup.alphabetSoup;
+package com.aeco.alphabetSoup;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AlphabetSoupApplication {
+public class PruebaCopiaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AlphabetSoupApplication.class, args);
+		SpringApplication.run(PruebaCopiaApplication.class, args);
 	}
 
 }

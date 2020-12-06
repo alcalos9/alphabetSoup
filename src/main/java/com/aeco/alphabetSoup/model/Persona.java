@@ -1,4 +1,4 @@
-package com.aeco.pruebaCopia.model;
+package com.aeco.alphabetSoup.model;
 
 public class Persona {
 	private String nombre;
